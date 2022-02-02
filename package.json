@@ -1,6 +1,6 @@
 {
   "name": "react_app",
-  "homepage": "http://{username}.github.io/{repo-name}",
+  "homepage": "http://oyindami.github.io/react_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
