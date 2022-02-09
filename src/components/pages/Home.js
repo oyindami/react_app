@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1>Oyindamola Peterson Professional Bio</h1>
-      <img src="./assets/professional photo.PNG" />
+      <img id="image" src={require("../Assets/professional_photo.PNG")} />
       <p>
         I am Oyindamola Peterson. I graduated with a Mechanical Engineering
         Degree from Georgia Southern University. I am currrently in the work
