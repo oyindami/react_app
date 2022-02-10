@@ -10,7 +10,7 @@ export default function Home() {
         Degree from Georgia Southern University. I am currrently in the work
         force at Textron specialized as a production engineer. I am currently
         enrolled in the Georgia tech Full stack boot camp to gain knowledge on a
-        variety of coding languages to boost my skill set.r. I am currently
+        variety of coding languages to boost my skill set. I am currently
         enrolled in the Georgia tech Full stack boot camp to gain knowledge on a
         variety of coding languages to boost my skill set.
       </p>
